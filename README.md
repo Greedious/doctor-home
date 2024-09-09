@@ -23,14 +23,12 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
 - Sequelize.
 - Flutter.
 
-## Screenshots
-
-- E-commerce App:
+## E-commerce App Screenshots
   ![App Screenshot](assets/Homepage-ecommerce-screenshot.png)
   ![App Screenshot](assets/Product-details-screenshot.png)
   ![App Screenshot](assets/Order-confirmation-screenshot.png)
 
-- University App:
+## University App Screenshots
   ![App Screenshot](assets/Patients-screenshot.png)
   ![App Screenshot](assets/Filtering-requests-screenshot.png)
   ![App Screenshot](assets/Patient-Card-screenshot.png)
