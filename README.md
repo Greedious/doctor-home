@@ -1,10 +1,10 @@
 # Doctor's Home 👨‍⚕️🦷
 
 # Description
+
 **_Doctor's Home_** is a dual-part platform designed to assist dental university students. It includes an e-commerce app for purchasing necessary tools for practical subjects and an app to facilitate the process of securing patients for their studies.
 Doctor store, is 2 applications project, first one is E-commerce and the other is for University to manage the practical sessions.
 ![Logo](https://ibb.co/xqkdNZN)
-
 
 ## Responsibilites
 
@@ -23,16 +23,14 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
 - Sequelize.
 - Flutter.
 
-
-
 ## Screenshots
 
 - E-commerce App:
-![App Screenshot](https://ibb.co/9vmsBBh)
-![App Screenshot](https://ibb.co/p1jX6Df)
-![App Screenshot](https://ibb.co/F8x9KFW)
+  ![App Screenshot](https://i.ibb.co/260gRRS/Doctor-store-homepage-1.png)
+  ![App Screenshot](https://i.ibb.co/D1fKPX9/Doctor-store-product-details.png)
+  ![App Screenshot](https://i.ibb.co/YfR63xW/Doctor-store-confirm-order.png)
 
-- University App: 
-![App Screenshot](https://ibb.co/8rRXsdK)
-![App Screenshot](https://ibb.co/sVt3tqk)
-![App Screenshot](https://ibb.co/kq78V2H)
+- University App:
+  ![App Screenshot](https://i.ibb.co/JvbCtyB/Screenshot-2024-09-09-at-2-11-21-PM.png)
+  ![App Screenshot](https://i.ibb.co/wzY6Y43/Screenshot-2024-09-09-at-2-13-17-PM.png)
+  ![App Screenshot](https://i.ibb.co/mhjqr5D/Screenshot-2024-09-09-at-2-14-13-PM.png)
