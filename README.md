@@ -36,6 +36,6 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
   <img src="assets/Filtering-requests-screenshot.png" alt="Project Screenshot" width="280">
   <img src="assets/Patient-Card-screenshot.png" alt="Project Screenshot" width="280">
   <img src="assets/book-appointment.png" alt="Project Screenshot" width="280">
-  <img src="assets/student-profile.png" alt="Project Screenshot" width="280">
-  <img src="assets/patient-profile.png" alt="Project Screenshot" width="280">
+  <img src="assets/student-file.png" alt="Project Screenshot" width="280">
+  <img src="assets/patient-file.png" alt="Project Screenshot" width="280">
   
