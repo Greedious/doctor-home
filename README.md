@@ -4,7 +4,8 @@
 
 **_Doctor's Home_** is a dual-part platform designed to assist dental university students. It includes an e-commerce app for purchasing necessary tools for practical subjects and an app to facilitate the process of securing patients for their studies.
 Doctor store, is 2 applications project, first one is E-commerce and the other is for University to manage the practical sessions.
-![Logo](assets/Doctor's-store-Logo.png)
+
+<img src="assets/Doctor's-store.png" alt="Project Screenshot" width="300">
 
 ## Responsibilites
 
@@ -20,15 +21,18 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
 
 - NestJS.
 - PostgreSQL
+- Redis
+- MongoDB
 - Sequelize.
 - Flutter.
 
 ## E-commerce App Screenshots
-  ![App Screenshot](assets/Homepage-ecommerce-screenshot.png)
-  ![App Screenshot](assets/Product-details-screenshot.png)
-  ![App Screenshot](assets/Order-confirmation-screenshot.png)
+  <img src="assets/Homepage-ecommerce-screenshot.png" alt="Project Screenshot" width="300">
+  <img src="assets/Product-details-screenshot.png" alt="Project Screenshot" width="300">
+  <img src="assets/Order-confirmation-screenshot.png" alt="Project Screenshot" width="300">
 
 ## University App Screenshots
-  ![App Screenshot](assets/Patients-screenshot.png)
-  ![App Screenshot](assets/Filtering-requests-screenshot.png)
-  ![App Screenshot](assets/Patient-Card-screenshot.png)
+  <img src="assets/Patients-screenshot.png" alt="Project Screenshot" width="300">
+  <img src="assets/Filtering-requests-screenshot.png" alt="Project Screenshot" width="300">
+  <img src="assets/Patient-Card-screenshot.png" alt="Project Screenshot" width="300">
+  
