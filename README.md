@@ -1,11 +1,12 @@
 # Doctor's Home 👨‍⚕️🦷
 
+<img src="assets/Doctor's-store-Logo.png" alt="Project Screenshot" width="450">
+
 # Description
 
 **_Doctor's Home_** is a dual-part platform designed to assist dental university students. It includes an e-commerce app for purchasing necessary tools for practical subjects and an app to facilitate the process of securing patients for their studies.
 Doctor store, is 2 applications project, first one is E-commerce and the other is for University to manage the practical sessions.
 
-<img src="assets/Doctor's-store-Logo.png" alt="Project Screenshot" width="450">
 
 ## Responsibilites
 
