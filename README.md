@@ -4,7 +4,7 @@
 
 **_Doctor's Home_** is a dual-part platform designed to assist dental university students. It includes an e-commerce app for purchasing necessary tools for practical subjects and an app to facilitate the process of securing patients for their studies.
 Doctor store, is 2 applications project, first one is E-commerce and the other is for University to manage the practical sessions.
-![Logo](https://ibb.co/xqkdNZN)
+![Logo](assets/Doctor's-store-Logo.png)
 
 ## Responsibilites
 
@@ -26,11 +26,11 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
 ## Screenshots
 
 - E-commerce App:
-  ![App Screenshot](https://i.ibb.co/260gRRS/Doctor-store-homepage-1.png)
-  ![App Screenshot](https://i.ibb.co/D1fKPX9/Doctor-store-product-details.png)
-  ![App Screenshot](https://i.ibb.co/YfR63xW/Doctor-store-confirm-order.png)
+  ![App Screenshot](assets/Homepage-ecommerce-screenshot.png)
+  ![App Screenshot](assets/Product-details-screenshot.png)
+  ![App Screenshot](assets/Order-confirmation-screenshot.png)
 
 - University App:
-  ![App Screenshot](https://i.ibb.co/JvbCtyB/Screenshot-2024-09-09-at-2-11-21-PM.png)
-  ![App Screenshot](https://i.ibb.co/wzY6Y43/Screenshot-2024-09-09-at-2-13-17-PM.png)
-  ![App Screenshot](https://i.ibb.co/mhjqr5D/Screenshot-2024-09-09-at-2-14-13-PM.png)
+  ![App Screenshot](assets/Patients-screenshot.png)
+  ![App Screenshot](assets/Filtering-requests-screenshot.png)
+  ![App Screenshot](assets/Patient-Card-screenshot.png)
