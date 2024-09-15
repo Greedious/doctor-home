@@ -25,7 +25,6 @@ Doctor store, is 2 applications project, first one is E-commerce and the other i
 - Redis
 - MongoDB
 - Sequelize.
-- Flutter.
 
 ## Some E-commerce App Screenshots
   <img src="assets/Homepage-ecommerce-screenshot.png" alt="Project Screenshot" width="280">
