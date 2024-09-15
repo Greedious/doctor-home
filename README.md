@@ -1,6 +1,8 @@
 # Doctor's Home 👨‍⚕️🦷
 
+<p align="center">
 <img src="assets/Doctor's-store-Logo.png" alt="Project Screenshot" width="450">
+</p>
 
 # Description
 
