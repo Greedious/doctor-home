@@ -1,0 +1,33 @@
+import { Strategy } from 'passport-local';
+import { PassportStrategy } from '@nestjs/passport';
+import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
+import { AuthDashboardService } from '../service/auth-dashboard.service';
+import { AuthError } from 'src/auth/service/auth-error.service';
+import { passportStrategy } from 'package/strategies/constant';
+
+@Injectable()
+export class LocalUniversityStrategy extends PassportStrategy(
+  Strategy,
+  passportStrategy.localUniversity,
+) {
+  constructor(
+    private readonly authDashboardService: AuthDashboardService,
+    private readonly authError: AuthError,
+  ) {
+    super();
+  }
+
+  async validate(username: string, password: string): Promise<any> {
+    const user = await this.authDashboardService.validateUser(
+      username,
+      password,
+    );
+    if (!user) {
+      throw new HttpException(
+        this.authError.wrongCreds(),
+        HttpStatus.UNAUTHORIZED,
+      );
+    }
+    return user;
+  }
+}
